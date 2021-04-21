@@ -4,6 +4,7 @@
 
 ## Git
 
+* [Basic](git/basic.md)
 * [Commit Message](git/commit-message.md)
 
 ## Programming  Languages
