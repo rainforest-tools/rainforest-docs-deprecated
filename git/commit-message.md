@@ -36,3 +36,9 @@
 
 * Please refer to [Submodule](commit-message.md#submodule)
 
+### Jira
+
+```text
+[JIRA_ISSUE_KEY] STATE - Message...
+```
+
