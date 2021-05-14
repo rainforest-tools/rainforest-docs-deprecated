@@ -11,3 +11,7 @@
 
 * [Python](programming-languages/python.md)
 
+## Computer Setup
+
+* [Apps](computer-setup/apps.md)
+
