@@ -13,5 +13,3 @@
 
 ## Computer Setup
 
-* [Apps](computer-setup/apps.md)
-
