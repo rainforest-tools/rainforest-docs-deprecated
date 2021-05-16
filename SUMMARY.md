@@ -11,5 +11,9 @@
 
 * [Python](programming-languages/python.md)
 
-## Computer Setup
+## Tools
+
+---
+
+* [enscript](enscript.md)
 
