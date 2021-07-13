@@ -9,6 +9,7 @@
 
 ## Programming  Languages
 
+* [Rust](programming-languages/rust.md)
 * [Python](programming-languages/python.md)
 
 ## Tools
