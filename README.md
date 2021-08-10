@@ -8,10 +8,6 @@ Hi, I'm Rainforest. My personal website is [🌧🌲🌲.🛠](https://rainfores
 * 程式專案則視使用語言規範可不在此限
 * 如果是某物件的集合，命名以複數形式命名。
 
-```bash
-ssh-add --apple-use-keychain .ssh/id_rsa.mac-mini
-```
-
 
 
 
