@@ -5,6 +5,7 @@
 ### Install
 
 ```bash
+brew install ghostscript # ps2pdf
 brew install enscript
 ```
 
